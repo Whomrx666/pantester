@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Whomrx666/pantester/blob/main/logo.png?raw=true" /></p>
 <br>
-<p align="center">***Pentesing Tools That All Hacker Needs.***</p>
+<p align="center">***Pantesting Tools That All Hacker Needs.***</p>
 
 ## PANTESTER Menu :
 
@@ -12,7 +12,7 @@
 - Web Hacking
 - Private Web Hacking
 - Post Exploitation
-- Install The HACKTRONIAN
+- Install The PANTESTER
 
 ### Information Gathering:
 
