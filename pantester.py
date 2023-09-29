@@ -132,7 +132,7 @@ def menu():
     elif choice == "8":
         postexp()
     elif choice == "0":
-        updatehacktronian()
+        updatepantester()
     elif choice == "99":
         clearScr(), sys.exit()
     elif choice == "":
