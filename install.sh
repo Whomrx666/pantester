@@ -18,7 +18,7 @@ ______   ______   ______  _______  ______  ______  _______  ______  ______
 |_|      |_|  |_| |_|  |_|   |_|   |_|____  ____|_/   |_|   |_|____ |_|  \_\ 
 echo -e "${RED}                                                      ~ Tools for Hacking by Mr.X ${NC}"
 echo ""
-echo -e "${YELLOW} Twitter.com/Whomr_X | whatsapp.com/6287855190571 | Github.com/Whomrx666 ${NC} "
+echo -e "${YELLOW} Telegram/Whomr_X | whatsapp.com/6287855190571 | Github.com/Whomrx666 ${NC} "
 echo ""
 echo "---------------------------------------------------------------------------------------"
 echo ""
