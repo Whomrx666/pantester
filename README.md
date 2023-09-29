@@ -130,7 +130,7 @@ My profile : https://linkbio.co/MrXprofile
 
 That's It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://t.me/Whomr_X), [Whatsapp](https://wa.me/6287855190571), [Github](https://github.com/Whomrx666) & SUBSCRIBE My [YouTube](https://youtube.com/@whomrx666) Channel..!!!
+& Don't Forget To Follow Me At [Telegram](https://t.me/Whomr_X), [Whatsapp](https://wa.me/6287855190571), [Github](https://github.com/Whomrx666) & SUBSCRIBE My [YouTube](https://youtube.com/@whomrx666) Channel..!!!
 
 ***Thankyou.***
 ***Keep Visiting..***
