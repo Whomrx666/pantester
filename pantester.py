@@ -110,7 +110,7 @@ def menu():
    {6}--Web Hacking
    {7}--Private Web Hacking
    {8}--Post Exploitation
-   {0}--Install The HACKTRONIAN
+   {0}--Install The PANTESTER
    {99}-Exit
  """)
     choice = raw_input("pantester~# ")
